@@ -26,8 +26,8 @@
   
 
 "admob_inter":"ca-app-pub-3940256099942544/1033173712",
-"admob_banner":"ca-app-pub-4484233641174824/8331422137",
-"admob_native":"ca-app-pub-4484233641174824/6056612584",
+"admob_banner":"ca-app-pub-4484233641174824/7585440388",
+"admob_native":"ca-app-pub-4484233641174824/6272358714",
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
